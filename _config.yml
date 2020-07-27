@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Hexo Configuration
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
@@ -102,6 +101,3 @@ deploy:
   type: git
   repo: https://github.com/yj510132642/YoungJay.github.io
   branch: master
-=======
-theme: jekyll-theme-slate
->>>>>>> 7b38ca60cc7e5c9a79f16877c9b28d7e518bc81c
