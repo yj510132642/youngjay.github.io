@@ -99,5 +99,5 @@ theme: cactus
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/yj510132642/youngjay.github.io
+  repo: https://github.com/yj510132642/YoungJay.github.io
   branch: master
